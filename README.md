@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🧑‍💻 About Me
-- 🎓 HUFS Computer Science (3rd Year)
+- 🎓 HUFS Computer Engineering (3rd Year)
 - 🌏 Double Major in Climate Change
 - 📊 Interested in Data Science & AI
 - ⚡ Interested in Energy Systems & Smart Grid
