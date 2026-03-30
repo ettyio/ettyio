@@ -1,4 +1,4 @@
-## Hi, I'm Lee SeoJeong! 👋
+## Hi, I'm SeoJeong Lee! 👋
 
 <!--
 **ettyio/ettyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
